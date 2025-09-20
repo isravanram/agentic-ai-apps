@@ -4,7 +4,7 @@ A collection of **Agentic AI applications** demonstrating practical implementati
 
 ---
 
-## ✨ About  
+## 🤖 About  
 
 Key goals of this repo:  
 - 🧠 Showcase **agentic workflows** with reasoning & autonomy  
@@ -23,9 +23,9 @@ Each folder contains a standalone agentic app with:
 ---
 
 ## 🛠️ Tech Stack  
-- **Python 3.10+** 🐍  
-- **LangChain / LangGraph** for orchestration 🔄  
-- **OpenAI / Anthropic / Hugging Face** for LLMs 🤖  
+- **Python 3.10+** 
+- **LangChain / LangGraph** for orchestration 
+- **OpenAI / Anthropic / Hugging Face** for LLMs 
 - **Vector DBs / APIs** for memory and external integrations  
 
 ---
@@ -38,3 +38,9 @@ Each folder contains a standalone agentic app with:
    cd agentic-ai-apps
 
 
+## 🤝 Contributing
+
+- Contributions are welcome! Please open an issue or PR if you’d like to:
+- Add new agentic apps
+- Improve documentation
+- Suggest features

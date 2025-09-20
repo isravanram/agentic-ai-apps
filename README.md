@@ -18,7 +18,8 @@ Key goals of this repo:
 Each folder contains a standalone agentic app with:  
 - `README.md` → App overview and usage  
 - `requirements.txt` or `pyproject.toml` → Dependencies  
-- Source code with clear modular structure  
+- Source code with clear modular structure
+- crew_ai : Consist of apps developed using crew_ai
 
 ---
 
@@ -30,12 +31,6 @@ Each folder contains a standalone agentic app with:
 
 ---
 
-## 🚀 Getting Started  
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/isravanram/agentic-ai-apps.git
-   cd agentic-ai-apps
 
 
 ## 🤝 Contributing

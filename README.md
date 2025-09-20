@@ -1,0 +1,1 @@
+This repository hosts a collection of Agentic AI applications developed to demonstrate how autonomous, reasoning-driven agents can be applied to solve real-world problems. Each project in this repo reflects best practices in AI engineering, leveraging the latest advancements in large language models, orchestration frameworks, and tool integrations.

@@ -32,7 +32,6 @@ Each folder contains a standalone agentic app with:
 ---
 
 
-
 ## 🤝 Contributing
 
 - Contributions are welcome! Please open an issue or PR if you’d like to:

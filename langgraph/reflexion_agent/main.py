@@ -29,11 +29,11 @@ graph = builder.compile()
 
 print(graph.get_graph().draw_mermaid())
 
-query1= "Write about AI-Powered SOC / autonomous soc  problem domain, list startups that do that and raised capital."
-query2 = f"Find top 5 business startup ideas in United Arab Emirates in 2025"
+query4= f"Identify the most reputable real estate investor companies operating in Dubai in 2025"
 
 res = graph.invoke(
-    query2
+    query4
 )
 print(res[-1].tool_calls[0]["args"]["answer"])
-# print(res)
+print(f"=======================================\n\n")
+print(res)
